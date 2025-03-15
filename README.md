@@ -8,13 +8,13 @@ I'm a **Full-Stack Developer** specializing in the **MERN Stack** (MongoDB, Expr
 - 🎨 **UI/UX Enthusiast** – Crafting intuitive and user-friendly experiences  
 
 ## 📌 Featured Projects  
-- **[Netflix Clone](https://img.shields.io/badge/Netflix_Clone)** – A full-stack Netflix clone built with the MERN stack, offering a seamless streaming experience. It includes:  
+- **![Netflix Clone](https://img.shields.io/badge/Netflix-Clone-blue)** – A full-stack Netflix clone built with the MERN stack, offering a seamless streaming experience. It includes:  
   - **User authentication** (JWT)  
   - **Movie browsing & search**  
   - **State management** with Zustand  
   - **Video playback & user profiles**  
 
-- **[Chat App](https://img.shields.io/badge/Chat_App)** – A real-time chat application built using the MERN stack and Socket.io for instant messaging. Features include:  
+- **![Chat App](https://img.shields.io/badge/Chat-App-blue)** – A real-time chat application built using the MERN stack and Socket.io for instant messaging. Features include:  
   - **User authentication** (JWT)  
   - **Real-time messaging** with Socket.io  
   - **MongoDB storage** for persistent conversations  
