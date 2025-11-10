@@ -14,10 +14,9 @@ I'm a **Full-Stack Developer** specializing in the **MERN Stack** (MongoDB, Expr
   - **State management** with Zustand  
   - **Video playback & user profiles**  
 
-- **![Chat App](https://img.shields.io/badge/Chat-App-blue)** – A real-time chat application built using the MERN stack and Socket.io for instant messaging. Features include:  
-  - **User authentication** (JWT)  
-  - **Real-time messaging** with Socket.io  
-  - **MongoDB storage** for persistent conversations  
+- **![Vidcha App](https://img.shields.io/badge/Vidcha-App-green)** – Vidcha is a video calling and chat platform that lets you connect with friends through high-quality calls and instant messaging. You can easily send and receive friend requests, making it simple to grow your network. Powered by Streamify for a smooth and reliable experience.
+
+-  **![Recipe App](https://img.shields.io/badge/Recipe-App-brown)** –A user-friendly web application that allows users to explore, search, and save a variety of recipes. Features include category-based browsing, detailed cooking instructions, ingredient lists, and the ability to add and manage personal recipes. Built with a focus on responsive design and intuitive user experience.
 
 ## 🚀 Technologies & Tools  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
