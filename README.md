@@ -8,11 +8,7 @@ I'm a **Full-Stack Developer** specializing in the **MERN Stack** (MongoDB, Expr
 - 🎨 **UI/UX Enthusiast** – Crafting intuitive and user-friendly experiences  
 
 ## 📌 Featured Projects  
-- **![Netflix Clone](https://img.shields.io/badge/Netflix-Clone-blue)** – A full-stack Netflix clone built with the MERN stack, offering a seamless streaming experience. It includes:  
-  - **User authentication** (JWT)  
-  - **Movie browsing & search**  
-  - **State management** with Zustand  
-  - **Video playback & user profiles**  
+- **![Netflix Clone](https://img.shields.io/badge/Netflix-Clone-blue)** – A full-stack Netflix clone built using the MERN stack (MongoDB, Express, React, Node.js), offering a seamless streaming experience. This project features user authentication, movie browsing, dynamic search, and a responsive UI. Integrated JWT authentication ensures secure access. 
 
 - **![Vidcha App](https://img.shields.io/badge/Vidcha-App-green)** – Vidcha is a video calling and chat platform that lets you connect with friends through high-quality calls and instant messaging. You can easily send and receive friend requests, making it simple to grow your network. Powered by Streamify for a smooth and reliable experience.
 
