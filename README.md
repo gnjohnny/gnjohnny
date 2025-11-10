@@ -1,5 +1,5 @@
 ## Hi, I'm Johnny Dev 👋  
-I'm a **Full-Stack Developer** specializing in the **MERN Stack** (MongoDB, Express.js, React, Node.js). I enjoy building scalable web applications, crafting elegant solutions, and continuously learning new technologies.
+I'm a **Full-Stack Developer** specializing in the **MERN Stack** (MongoDB, Express.js, React, Node.js), **Next.js**,etc.. . I enjoy building scalable web applications, crafting elegant solutions, and continuously learning new technologies.
 
 ## 🚀 What I Do  
 - 💻 **Web Development** – Building dynamic and responsive applications with **React, Node.js, and Tailwind CSS**  
@@ -28,10 +28,10 @@ I'm a **Full-Stack Developer** specializing in the **MERN Stack** (MongoDB, Expr
 ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)  
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)  
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-![Drizzle ORM](https://img.shields.io/badge/Drizzle%20ORM-FFD500%20→%20F5D033?style=for-the-badge&logo=drizzle&logoColor=0A0A0A)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)  
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)  
+![Drizzle ORM](https://img.shields.io/badge/Drizzle%20ORM-FFD500%20→%20F5D033?style=for-the-badge&logo=drizzle&logoColor=0A0A0A)  
 
 
 
